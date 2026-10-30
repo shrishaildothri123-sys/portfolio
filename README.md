@@ -3,7 +3,7 @@
 # Fitforge info.
 Showcasing academic and practical work in software development, featuring full-stack web applications, database management systems, and AI-assisted platform initiatives built with modern frameworks and tools.
 
-# other projects info.
+# Other projects info.
 Projects created are IPL ticket booking.com, Movie ticket booking.com, petkart, and Fitforge. These are the some of the projects built till now.
 
 # Student academic info.
