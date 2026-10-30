@@ -1,25 +1,31 @@
-## portfolio
+# Hi, I'm Shrishail Dothri 👋
 
-# Fitforge info.
-Showcasing academic and practical work in software development, featuring full-stack web applications, database management systems, and AI-assisted platform initiatives built with modern frameworks and tools.
+## 🚀 About Me
+I am a B.Tech Computer Science and Engineering (AIML) student at [REVA University](https://www.reva.edu.in), Bengaluru. I specialize in building full-stack web applications, database management systems, and exploring AI-assisted software solutions.
 
-# Other projects info.
-Projects created are IPL ticket booking.com, Movie ticket booking.com, petkart, and Fitforge. These are the some of the projects built till now.
+---
 
-# Student academic info.
-Currently studying B.Tech in CSE AIML at reva univeristy banglore.
+## 🛠️ Featured Projects
 
-# Basic info about everything.
+* **Fitforge:** A modern fitness platform designed to track workouts, monitor nutrition goals, and help users stay consistent on their fitness journey.
+* **Petkart:** A full-stack pet care and product platform streamlining pet adoption, accessories, and supplies.
+* **IPL Ticket Booking:** A streamlined web application for browsing and booking cricket match tickets seamlessly.
+* **Movie Ticket Booking:** An online reservation platform designed for quick seat selection and movie ticket management.
 
-* Overview: B.Tech CSE (AIML) student at REVA University, Bengaluru, showcasing full-stack development and AI-assisted initiatives.
+---
 
-* Key Projects: Built Fitforge, Petkart, IPL Ticket Booking, and Movie Ticket Booking.
+## 🎯 Core Focus Areas
 
-* Advanced Full-Stack Engineering: Building scalable end-to-end web applications with modern JavaScript frameworks and robust backend architectures.
+* **Advanced Full-Stack Engineering:** Building scalable, end-to-end web applications with modern JavaScript frameworks and robust backend architectures.
+* **AI & ML Integration:** Exploring and integrating machine learning models and intelligent automation features into real-world software.
+* **Database & DevOps:** Mastering efficient database schema design, complex querying, version control workflows, and modular, production-ready system design.
 
-* AI & ML Integration: Exploring and integrating machine learning models and intelligent automation features into real-world software.
+---
 
-* Database & DevOps: Mastering efficient database schema design, querying, version control, and modular, production-ready system design.
+## 💻 Tech Stack & Tools
 
-# Installation link:
-
+* **Languages:** JavaScript, Python, C, C++
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Backend:** Node.js, Express.js
+* **Databases:** MongoDB, MySQL, Supabase
+* **Tools & Workflow:** Git, GitHub, VS Code, PowerShell
