@@ -20,3 +20,6 @@ Currently studying B.Tech in CSE AIML at reva univeristy banglore.
 * AI & ML Integration: Exploring and integrating machine learning models and intelligent automation features into real-world software.
 
 * Database & DevOps: Mastering efficient database schema design, querying, version control, and modular, production-ready system design.
+
+# Installation link:
+
